@@ -1,0 +1,57 @@
+body{
+  background: #000;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+  
+}
+.main{
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  display: flex;
+  width: 100%;
+  
+}
+.fir{
+  color: #fff
+}
+.abc{
+  display: flex;
+}
+#div{
+  width: 100%;
+  height: 100%;
+}
+.sec{
+  background-color: #fff;
+  display: block;
+}
+.sidebar{
+  background: #000;
+  color: #fff;
+  padding: 20px;
+  flex-direction: column;
+
+}
+.inc{
+  border-radius: 6px;
+  background: orchid;
+  color: #000;
+}
+.inc2{
+  border-radius: 6px;
+  background: black;
+  color: green;
+}
+.inc3{
+  background: #FFF;
+  color: black;
+}
+.nav-item{
+ 
+  align-items: center;
+  border-radius: 8px;
+  cursor: pointer;
+}
